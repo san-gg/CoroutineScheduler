@@ -3,3 +3,5 @@ A Coroutine Scheduler is a user-space scheduling system for managing coroutinesâ
 So far, it includes:<br>
 + Sleep system call.
 + Channel with Buffered data.
+
+`* There is No dynamic stack size (cannot grow or shrink at runtime)`
